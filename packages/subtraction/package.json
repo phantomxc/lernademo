@@ -1,0 +1,29 @@
+{
+  "name": "@lernademo/subtraction",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "Cameron Wengert <cameron.wengert@mx.com>",
+  "homepage": "https://github.com/phantomxc/lernademo#readme",
+  "license": "ISC",
+  "main": "lib/subtraction.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phantomxc/lernademo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/phantomxc/lernademo/issues"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
